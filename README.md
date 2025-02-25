@@ -34,14 +34,14 @@ ByteBazaar is a web-based e-commerce application developed using **Java (Spring 
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/1Abdess/ProgettoIngSistemiWeb.git
+    git clone https://github.com/1Abdess/ProgettoIngSistemiWeb.git
 
 2. **Navigate to the project directory:**
     ```bash
-        cd ProgettoIngSistemiWeb
+    cd ProgettoIngSistemiWeb
 3. **Set up the database:**
     - Import the dump.sql file into MySQL Workbench.
     - Update database credentials in src/main/resources/application.properties.
 4. **Build and run the project:**
     ```bash
-        ./gradlew bootRun
+    ./gradlew bootRun
